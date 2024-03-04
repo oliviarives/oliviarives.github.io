@@ -54,7 +54,7 @@
 .start-and-bus{
     border-radius: 10px;
 }
-.crea-vm{
+.crea-vm, .algo-recommandation{
     border-radius: 10px;
 }
 /* btn pdf */
@@ -207,4 +207,7 @@
 }
 .icon-projet-git{
     color: #f29905;
+}
+.icon-projet-python{
+    color: #00008B;
 }
