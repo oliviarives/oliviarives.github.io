@@ -1,7 +1,7 @@
 .desc-ctp1{
     color: #333; 
     background-color: #f9f9f9; 
-    border-left: 10px solid #c4251d; 
+    border-left: 10px solid black; 
     padding: 10px 20px;
     margin:  20px; 
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
@@ -13,17 +13,17 @@
     text-decoration: none;
 }
 .desc-ctp1:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp1-desc{
-    color: #c4251d;
+    color: black;
     font-size: 1.5em;
     font-weight: bold;
 }
 .desc-ctp2{
     color: #333; 
     background-color: #f9f9f9; 
-    border-left: 10px solid #f29905; 
+    border-left: 10px solid black; 
     padding: 10px 20px;
     margin:  20px; 
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
@@ -32,17 +32,17 @@
     border-radius: 5px;
 }
 .desc-ctp2:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp2-desc{
-    color: #f29905;
+    color: black;
     font-size: 1.5em;
     font-weight: bold;
 }
 .desc-ctp3{
     color: #333; 
     background-color: #f9f9f9; 
-    border-left: 10px solid #FFFF00; 
+    border-left: 10px solid black; 
     padding: 10px 20px;
     margin:  20px; 
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
@@ -51,17 +51,17 @@
     border-radius: 5px;
 }
 .desc-ctp3:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp3-desc{
-    color: #FFD700;
+    color: black;
     font-size: 1.5em;
     font-weight: bold;
 }
 .desc-ctp4{
     color: #333; 
     background-color: #f9f9f9; 
-    border-left: 10px solid #1d8c3c; 
+    border-left: 10px solid black; 
     padding: 10px 20px;
     margin:  20px; 
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
@@ -70,17 +70,17 @@
     border-radius: 5px;
 }
 .desc-ctp4:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp4-desc{
-    color: #1d8c3c;
+    color: black;
     font-size: 1.5em;
     font-weight: bold;
 }
 .desc-ctp5{
     color: #333; 
     background-color: #f9f9f9; 
-    border-left: 10px solid #1d74ec; 
+    border-left: 10px solid black; 
     padding: 10px 20px;
     margin:  20px; 
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
@@ -89,10 +89,10 @@
     border-radius: 5px;
 }
 .desc-ctp5:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp5-desc{
-    color: #1d74ec;
+    color: black;
     font-size: 1.5em;
     font-weight: bold;
 }
@@ -108,7 +108,7 @@
     border-radius: 5px;
 }
 .desc-ctp6:hover{
-    background-color: #ebe6ea;
+    background-color: #ffffff92;
 }
 .span-ctp6-desc{
     color: black;
