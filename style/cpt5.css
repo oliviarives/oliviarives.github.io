@@ -1,5 +1,14 @@
 .carte1 .entete1 {
-    background-color: #8eb9f4;
+    background-color: #1d74ec;
+    color: white;
     padding: 10px;
     text-align: center;
+}
+.cpt5{
+    background-color: #1d74ec;
+    color: white;
+}
+.cpt5:hover{
+    background-color: white;
+    color: black;
 }
