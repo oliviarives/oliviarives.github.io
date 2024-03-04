@@ -54,7 +54,7 @@ body{
     color: black;
 }
 
-/* texte automatique */
+/* texte automatique 
 .ecriture-auto{
     display: flex;
     justify-content: flex-start;
@@ -62,23 +62,20 @@ body{
     margin: 0 32em;
     text-align: center;
     justify-content: center;
-}
+}*/
 .auto-text{
     align-items: center;
     justify-content: center;
-    border-right: 0.2em solid black;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.07em;
     text-align: center;
     font-size: 2.5em;
     overflow: hidden;
     white-space: nowrap;
     position: relative;
-
-
-    animation: typing 3.5s steps(24);
-    animation: blink 1s infinite;
+    /*animation: typing 3.5s steps(24);
+    animation: blink 1s infinite;*/
 }
-
+/*
 @keyframes blink {
     from,
     to {
@@ -92,4 +89,4 @@ body{
 @keyframes typing {
     from {width: 0}
     to {width: 100%;}
-}
+}*/
