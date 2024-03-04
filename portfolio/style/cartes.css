@@ -1,0 +1,210 @@
+/* Styles généraux pour les cartes */
+.lescartes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: flex-start; 
+}
+
+.carte1 {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    background-color: #ffffff56;
+    box-shadow: 6px 2px 25px rgba(0, 0, 0, 0.5); 
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Header de la carte */
+.carte1 .entete1 {
+    padding: 10px;
+    text-align: center;
+}
+
+.carte1 .entete1 h2 {
+    margin: 0;
+    font-size: 1.25em;
+}
+
+/* Contenu de la carte */
+.carte1 .contenu1 {
+    padding: 15px;
+}
+
+.carte1 .contenu1 .img1 {
+    width: 100%;
+    height: auto;
+    display: block; 
+    margin-bottom: 15px;
+}
+
+.carte1 .contenu1 p {
+    font-size: 0.9em; 
+    color: #333; 
+    line-height: 1.6; 
+    margin: 0; 
+}
+
+.img1 {
+    width: 500px;
+    border-radius: 0 0 10px 10px;
+}
+
+.start-and-bus{
+    border-radius: 10px;
+}
+.crea-vm{
+    border-radius: 10px;
+}
+/* btn pdf */
+.pdf{
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.664);
+    margin: 10px 0 0 0;
+    padding: 5px;
+    border-radius: 6px;
+    text-align: center;
+}
+.pdf:hover{
+    background-color: rgba(128, 128, 128, 0.257);
+}
+
+.download{
+    color: white;
+}
+
+/* explication */
+.desc-txt{
+    text-decoration: none;
+}
+.desc-ctp1{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid #c4251d; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp1-desc{
+    color: #c4251d;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.desc-ctp2{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid #f29905; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp2-desc{
+    color: #f29905;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.desc-ctp3{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid #FFFF00; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp3-desc{
+    color: #FFD700;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.desc-ctp4{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid #1d8c3c; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp4-desc{
+    color: #1d8c3c;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.desc-ctp5{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid #1d74ec; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp5-desc{
+    color: #1d74ec;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.desc-ctp6{
+    color: #333; 
+    background-color: #f9f9f9; 
+    border-left: 10px solid black; 
+    padding: 10px 20px;
+    margin:  20px 50px 20px 50px; 
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: justify; 
+    line-height: 1.6;
+    border-radius: 5px;
+}
+.span-ctp6-desc{
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.icon-projet{
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+    font-size: 2em;
+    display: flex;
+    letter-spacing: 10px;
+}
+
+.icon-projet-html{
+    color: #c4251d;
+}
+.icon-projet-css{
+    color: rgb(33, 103, 242);
+}
+.icon-projet-php{
+    color: rgb(142, 5, 247);
+}
+.icon-projet-mysql{
+    width: 55px;
+    padding-right: 2px;
+}
+.icon-projet-js{
+    color: #FFD700;
+}
+.icon-projet-postgresql{
+    width: 2px;
+}
+.icon-projet-git{
+    color: #f29905;
+}
