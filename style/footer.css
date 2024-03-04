@@ -1,0 +1,20 @@
+.footer{
+    margin: 30px 20px;
+    background-color: rgba(255, 255, 255, 0.161);
+    border-radius: 10px;
+    position: sticky;
+    display: block;
+    text-align: center;
+    filter: opacity(95%);
+    box-shadow: 6px 10px 25px rgba(0, 0, 0, 0.5); 
+}
+.logo_linkedin{
+    width: 50px;
+}
+.logo_gitlab{
+    width: 30px;
+    margin-bottom: 10px;
+}
+.copyright{
+    padding-bottom: 15px;
+}
