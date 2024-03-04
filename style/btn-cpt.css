@@ -39,8 +39,8 @@
     background-color:whitesmoke ;
 }
 .cpt1 {
-    background-color: #c4251d;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -50,10 +50,12 @@
 .cpt1:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color:#dc7c7c ;
+    background-color:#c4251d ;
+    color: white;
 }
 .cpt2 {
-    background-color:#f29905;
+    background-color:white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -63,10 +65,11 @@
 .cpt2:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: #fac469;
+    background-color: #f29905;
 }
 .cpt3 {
-    background-color: #FFFF00;
+    background-color: white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -75,11 +78,11 @@
 .cpt3:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: #f3f781a5;
+    background-color: #FFFF00;
 }
 .cpt4 {
-    background-color: #1d8c3c;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -88,11 +91,12 @@
 .cpt4:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: #88c599;
+    background-color: #1d8c3c;
+    color: white;
 }
 .cpt5{
-    background-color: #1d74ec;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -101,12 +105,12 @@
 .cpt5:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: #8eb9f4;
+    background-color: #1d74ec;
     color: white;
 }
 .cpt6{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 2%;
     padding: 8px 10px;
     border-radius: 10px;
@@ -115,6 +119,6 @@
 .cpt6:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: #6E6E6E;
+    background-color: black;
     color: white;
 }
