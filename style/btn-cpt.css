@@ -122,3 +122,113 @@
     background-color: black;
     color: white;
 }
+
+@media (max-width: 1010px) {
+    .head_competences .nav_competences .competences {
+        display: flex;
+        flex-direction: column;
+        list-style-type: none;
+        padding: 0;
+        align-items: flex-start;
+    }
+    .head_competences .nav_competences .competences li {
+        margin-bottom: 10px;
+    }
+    .cpt0{
+        background-color: white;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cpt0:hover{
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color:whitesmoke ;
+    }
+    .cpt1 {
+        background-color: white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .cpt1:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color:#c4251d ;
+        color: white;
+    }
+    .cpt2 {
+        background-color:white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .cpt2:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color: #f29905;
+    }
+    .cpt3 {
+        background-color: white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cpt3:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color: #FFFF00;
+    }
+    .cpt4 {
+        background-color: white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cpt4:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color: #1d8c3c;
+        color: white;
+    }
+    .cpt5{
+        background-color: white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cpt5:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color: #1d74ec;
+        color: white;
+    }
+    .cpt6{
+        background-color: white;
+        color: black;
+        margin: 2%;
+        padding: 8px 10px;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cpt6:hover {
+        transform: scale(1.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        background-color: black;
+        color: white;
+    }
+
+}
