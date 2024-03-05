@@ -12,8 +12,7 @@ body{
 }
 .petitTitrecvVideo{
     display: inline-block;
-    background-color: rgba(238, 130, 238, 0.212);
-    color: violet;
+    color: black;
     font-size: 20px;
     margin: 40px 0 0 20px;
     padding: 5px 10px;
@@ -22,8 +21,7 @@ body{
 }
 .petitTitrecvVideo2{
     display: inline-block;
-    background-color: #3b6df825;
-    color: #3b6df8;
+    color: black;
     font-size: 20px;
     margin: 40px 0 0 20px;
     padding: 5px 10px;
