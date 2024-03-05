@@ -14,6 +14,7 @@
 }
 .desc-ctp1:hover{
     background-color: #ffffff92;
+    border-left: 30px solid #c4251d; 
 }
 .span-ctp1-desc{
     color: black;
@@ -33,6 +34,7 @@
 }
 .desc-ctp2:hover{
     background-color: #ffffff92;
+    border-left: 30px solid #f29905; 
 }
 .span-ctp2-desc{
     color: black;
@@ -52,6 +54,7 @@
 }
 .desc-ctp3:hover{
     background-color: #ffffff92;
+    border-left: 30px solid #FFFF00;
 }
 .span-ctp3-desc{
     color: black;
@@ -71,6 +74,7 @@
 }
 .desc-ctp4:hover{
     background-color: #ffffff92;
+    border-left: 30px solid #1d8c3c;
 }
 .span-ctp4-desc{
     color: black;
@@ -90,6 +94,7 @@
 }
 .desc-ctp5:hover{
     background-color: #ffffff92;
+    border-left: 30px solid #1d74ec;
 }
 .span-ctp5-desc{
     color: black;
@@ -109,6 +114,7 @@
 }
 .desc-ctp6:hover{
     background-color: #ffffff92;
+    border-left: 30px solid rgba(0, 0, 0, 0.572);
 }
 .span-ctp6-desc{
     color: black;
